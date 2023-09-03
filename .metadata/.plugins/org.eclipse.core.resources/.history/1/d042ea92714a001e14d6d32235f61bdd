@@ -1,0 +1,13 @@
+package entities;
+
+public class Triangulo {
+	
+	// Attributes//
+	public double a;
+	public double b;
+	public double c;
+	public double a;
+	
+
+	
+}
